@@ -711,7 +711,7 @@ section {
 }
 
 .portfolio .portfolio-wrap .portfolio-links a:hover {
-  color: #148af9;
+  color: #ff7200;
 }
 
 .portfolio .portfolio-wrap:hover::before {
@@ -1202,8 +1202,8 @@ section {
 }
 
 #footer .social-links a:hover {
-  background: #0678e3;
-  color: #fff;
+  background: #c5c5c5;
+  color: #000000;
   text-decoration: none;
 }
 
